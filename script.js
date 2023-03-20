@@ -1,4 +1,7 @@
-//TMDB 
+//TMDB
+/*George, 2021, Day17-MovieApp (script.js)
+https://github.com/asishgeorge/50Projects50Days/tree/master/Day17-MovieApp
+*/
 
 const API_KEY = 'api_key=573e4dfa4b2525b966b6b81a1fc5de7b';
 const BASE_URL = 'https://api.themoviedb.org/3';

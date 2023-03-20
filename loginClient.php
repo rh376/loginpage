@@ -18,7 +18,7 @@ $response = $client->send_request($request);
 if ($response[0] == 1)
 //if ($response)
 {
-	header("Location: home.html");
+	header("Location: movie.html");
 	//echo "Login response received";
 }else{
 	header("Location: login.html");
